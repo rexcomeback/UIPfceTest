@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UIPfceTest</string>
+    <string name="crash_toast_text">crash !!!</string>
 </resources>

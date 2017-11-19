@@ -23,6 +23,11 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    public void btn_crash(View v) {
+        int i = 0;
+        int j = 1 / i;
+    }
+
     @Override
     protected void onResume() {
         super.onResume();
